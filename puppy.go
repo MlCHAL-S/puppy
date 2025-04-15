@@ -11,3 +11,7 @@ func Barks() string {
 func Barking() string {
     return "Constant Barking!"
 }
+
+func Version() string {
+    return "I'm from version v1.2.0"
+}
